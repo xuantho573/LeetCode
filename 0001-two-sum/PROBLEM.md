@@ -1,6 +1,6 @@
 # 1. Two Sum
 
-![LeetCode Easy](https://badgen.net/#static/difficulty/easy/green)
+![LeetCode Easy](https://honey.badgers.space/badge/difficulty/easy/green)
 
 ## Topics
 
@@ -14,3 +14,13 @@ Given an array of integers `nums` and an integer `target`, return *indices of th
 You may assume that each input would have ***exactly* one solution**, and you may not use the *same* element twice.
 
 You can return the answer in any order.
+
+## Constraints
+
+- 2 &le; nums.length &le; 10<sup>4</sup>
+- -10<sup>9</sup> &le; nums[i] &le; 10<sup>9</sup>
+- -10<sup>9</sup> &le; target &le; 10<sup>9</sup>
+- **Only one valid answer exists.**
+
+ ## Follow-up
+ Can you come up with an algorithm that is less than O(n<sup>2</sup>) time complexity?
