@@ -3,7 +3,7 @@
 This is a repository that I use to commit my solutions for LeetCode problems. The repository is structured as follow:
 ```
 📦 the repo
- ┣📂 <problem's number>.<problem's name>  # The problem's identifier, e.g. 0001.two-sum
+ ┣📂 <problem's number>-<problem's name>  # The problem's identifier, e.g. 0001-two-sum
  ┃ ┣📜 PROBLEM.md                         # The problem description
  ┃ ┣📜 SOLUTIONS.md                       # The explanation for my solutions
  ┃ ┣📂 <solution 1>                       # The folder containing source code for the first solution, e.g. use-map
