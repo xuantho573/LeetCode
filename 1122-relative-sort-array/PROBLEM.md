@@ -11,14 +11,14 @@
 
 ## Description
 
-Given two arrays `arr1` and `arr2`, the elements of `arr2` are distinct, and all elements in `arr2` are also in `arr1`.
+Given two arrays <code>arr1</code> and <code>arr2</code>, the elements of <code>arr2</code> are distinct, and all elements in <code>arr2</code> are also in <code>arr1</code>.
 
-Sort the elements of `arr1` such that the relative ordering of items in `arr1` are the same as in `arr2`. Elements that do not appear in `arr2` should be placed at the end of `arr1` in **ascending** order.
+Sort the elements of <code>arr1</code> such that the relative ordering of items in <code>arr1</code> are the same as in <code>arr2</code>. Elements that do not appear in <code>arr2</code> should be placed at the end of <code>arr1</code> in **ascending** order.
 
 ## Constraints
 
-- 1 &le; arr1.length, arr2.length &le; 1000
-- 0 &le; arr1[i], arr2[i] &le; 1000
-- All the elements of `arr2` are **distinct**.
-- Each arr2[i] is in arr1.
+- <code>1 &le; arr1.length, arr2.length &le; 1000</code>
+- <code>0 &le; arr1[i], arr2[i] &le; 1000</code>
+- All the elements of <code>arr2</code> are **distinct**.
+- Each <code>arr2[i]</code> is in <code>arr1</code>.
 
