@@ -10,14 +10,14 @@
 
 ## Description
 
-A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in **non-decreasing order** by height. Let this ordering be represented by the integer array `expected` where `expected[i]` is the expected height of the i<sup>th</sup> student in line.
+A school is trying to take an annual photo of all the students. The students are asked to stand in a single file line in **non-decreasing order** by height. Let this ordering be represented by the integer array <code>expected</code> where <code>expected[i]</code> is the expected height of the <code>i<sup>th</sup></code> student in line.
 
-You are given an integer array `heights` representing the **current order** that the students are standing in. Each `heights[i]` is the height of the i<sup>th</sup> student in line **(0-indexed)**.
+You are given an integer array <code>heights</code> representing the **current order** that the students are standing in. Each <code>heights[i]</code> is the height of the <code>i<sup>th</sup></code> student in line **(0-indexed)**.
 
-Return *the **number of indices** where* `heights[i] != expected[i]`.
+Return *the **number of indices** where* <code>heights[i] != expected[i]</code>.
 
 ## Constraints
 
-- 1 &le; heights.length &le; 100
-- 1 &le; heights[i] &le; 100
+- <code>1 &le; heights.length &le; 100</code>
+- <code>1 &le; heights[i] &le; 100</code>
 
