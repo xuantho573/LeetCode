@@ -1,0 +1,10 @@
+import{_ as s,c as n,a as t,o as l}from"./app-C85ZuG1B.js";const i={};function a(o,e){return l(),n("div",null,e[0]||(e[0]=[t(`<h1 id="leetcode" tabindex="-1"><a class="header-anchor" href="#leetcode"><span>LeetCode</span></a></h1><p>This is a repository that I use to commit my solutions for LeetCode problems. The repository is structured as follow:</p><div class="language-text line-numbers-mode" data-highlighter="prismjs" data-ext="text" data-title="text"><pre><code><span class="line">📦 the repo</span>
+<span class="line"> ┣📂 &lt;problem&#39;s number&gt;-&lt;problem&#39;s name&gt;  # The problem&#39;s identifier, e.g. 0001-two-sum</span>
+<span class="line"> ┃ ┣📜 PROBLEM.md                         # The problem description</span>
+<span class="line"> ┃ ┣📜 SOLUTIONS.md                       # The explanation for my solutions</span>
+<span class="line"> ┃ ┣📂 &lt;solution 1&gt;                       # The folder containing source code for the first solution, e.g. use-map</span>
+<span class="line"> ┃ ┃ ┣📜 &lt;solution 1&gt;.py                  # Python code for the solution (if any).</span>
+<span class="line"> ┃ ┃ ┗📜 &lt;solution 1&gt;.cpp                 # C++ code for the solution (if any).</span>
+<span class="line"> ┃ ┗📂 &lt;more solutions ...&gt;               # More solutions for the problem (if any).</span>
+<span class="line"> ┗📂 &lt;more problems ...&gt;                  # Other problems</span>
+<span class="line"></span></code></pre><div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0;"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3)]))}const d=s(i,[["render",a],["__file","EADME.html.vue"]]),p=JSON.parse('{"path":"/EADME.html","title":"LeetCode","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"EADME.md"}');export{d as comp,p as data};
