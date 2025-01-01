@@ -25,6 +25,7 @@ export default defineUserConfig({
   theme: defaultTheme({
     sidebar: false,
   }),
+  base: '/LeetCode/',
   lang: 'en-US',
   title: 'LeetCode',
 })
